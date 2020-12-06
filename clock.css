@@ -151,3 +151,12 @@ body.light .mode::before{
     content: 'Dark mode';
 }
 
+@media screen and (max-width:800px){
+    
+.mode{
+   
+    right:50vw;
+    
+}
+
+}
