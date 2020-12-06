@@ -126,7 +126,7 @@ body.light .clock .minute .min::before{
    
     position: absolute;
     top:10%;
-    left:80%;
+    right:10vw;
     background:white;
     width:20px;
     height:20px;
